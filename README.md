@@ -1,0 +1,2 @@
+# BookCollection
+Goals for this lab were to 1. Write a class and use objects. 2. Understand difference between public and private methods. 3. Understand difference between static and non-static methods.Task was to write a Java class named BookCollection (in a file BookCollection.java) which defines a class for managing a collection of Books. Book is a class defined in the provided file Book.java. The BookCollection class must provide the resources needed by the provided client class BookStuff found in BookStuff.java.
